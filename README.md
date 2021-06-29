@@ -24,3 +24,5 @@ to avoid vote manipulation or internal discussions between
 developers.
 
 Hope this clears things up!
+
+## Cheers! 🍺
